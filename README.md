@@ -57,27 +57,27 @@ Developers and creators frequently encounter **"blank canvas paralysis"** when b
 ---
 ## 🖼️ Application Screenshots
 
-### 1. Dashboard
+### 1. Developer Dashboard
 
-![Dashboard](./screenshots/dashboard.png)
+![Developer Dashboard](./src/assets/images/dashboard.png)
 
-*Main dashboard of IdeaLab.*
+*Figure 1: Main dashboard displaying project ideas, search, and navigation.*
 
 ---
 
 ### 2. AI Blueprint Generator
 
-![Generator](./screenshots/generator.png)
+![AI Blueprint Generator](./src/assets/images/generator.png)
 
-*Generate AI-powered software project blueprints.*
+*Figure 2: Configure project requirements and generate AI-powered software blueprints.*
 
 ---
 
 ### 3. Generated Blueprint
 
-![Blueprint](./screenshots/blueprint.png)
+![Generated Blueprint](./src/assets/images/blueprint.png)
 
-*AI-generated project blueprint with features, roadmap, and recommended technology stack.*
+*Figure 3: AI-generated project blueprint with features, roadmap, and recommended technology stack.*
 
 ---
 
