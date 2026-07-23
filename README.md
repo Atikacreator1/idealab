@@ -1,6 +1,13 @@
 # 🚀 IdeaLab — AI Project Blueprint & Tech Spec Synthesis Engine
 
-> **Live Deployed Application:** [https://ais-pre-je5u2nwalarkbfnl7p5iu7-606312097545.asia-southeast1.run.app](https://ais-pre-je5u2nwalarkbfnl7p5iu7-606312097545.asia-southeast1.run.app)
+> ## 🌐 Live Deployed Application
+
+🔗 **Live Demo:** https://idealab-orcin.vercel.app/
+
+## 📂 GitHub Repository
+
+Repository:
+https://github.com/Atikacreator1/idealab
 
 ---
 
