@@ -55,20 +55,29 @@ Developers and creators frequently encounter **"blank canvas paralysis"** when b
   - User session state stored locally with user avatar and role badges.
 
 ---
-
 ## 🖼️ Application Screenshots
 
-### 1. Developer Dashboard & Sparks Catalog
-src/assets/images/dashboard.png
-*Figure 1: Main portal dashboard displaying curated technical sparks, search bar, and industry domain filters.*
+### 1. Dashboard
 
-### 2. AI Blueprint Generator Interface
-src/assets/images/blueprint.png
-*Figure 2: AI Spark Generator workspace with custom domain, vibe, complexity, and tech stack parameters.*
+![Dashboard](./screenshots/dashboard.png)
 
-### 3. Architecture Blueprint & Multi-Format PDF Exporter
-src/assets/images/generator.png
-*Figure 3: Interactive blueprint modal showing the 3-phase implementation roadmap and PDF document export.*
+*Main dashboard of IdeaLab.*
+
+---
+
+### 2. AI Blueprint Generator
+
+![Generator](./screenshots/generator.png)
+
+*Generate AI-powered software project blueprints.*
+
+---
+
+### 3. Generated Blueprint
+
+![Blueprint](./screenshots/blueprint.png)
+
+*AI-generated project blueprint with features, roadmap, and recommended technology stack.*
 
 ---
 
