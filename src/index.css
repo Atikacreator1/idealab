@@ -1,0 +1,56 @@
+@import "tailwindcss";
+
+@layer base {
+  body {
+    font-family: 'Plus Jakarta Sans', sans-serif;
+    background-color: #f7f9fb;
+    color: #191c1e;
+  }
+  
+  h1, h2, h3, h4, h5, h6 {
+    font-family: 'Montserrat', sans-serif;
+  }
+}
+
+.action-gradient {
+  background: linear-gradient(135deg, #630ed4 0%, #39b8fd 100%);
+}
+
+.action-gradient-hover:hover {
+  filter: brightness(1.08);
+}
+
+.glass-card {
+  background: rgba(255, 255, 255, 0.82);
+  backdrop-filter: blur(24px);
+  -webkit-backdrop-filter: blur(24px);
+  border: 1px solid rgba(255, 255, 255, 0.4);
+  box-shadow: 0 20px 50px rgba(99, 14, 212, 0.06);
+}
+
+.ambient-glow {
+  filter: blur(80px);
+  opacity: 0.18;
+  background: radial-gradient(circle, #630ed4, #39b8fd);
+}
+
+.ambient-shadow {
+  box-shadow: 0 20px 50px -12px rgba(99, 14, 212, 0.15);
+}
+
+.material-symbols-outlined {
+  font-variation-settings: 'FILL' 0, 'wght' 400, 'GRAD' 0, 'opsz' 24;
+  display: inline-block;
+  vertical-align: middle;
+  line-height: 1;
+}
+
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+
+.no-scrollbar {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+

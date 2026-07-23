@@ -1,0 +1,6 @@
+{
+  "name": "IdeaLab",
+  "description": "An AI-powered project generator and ideation engine that synthesizes tech blueprints, feature breakdowns, and implementation roadmaps.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
